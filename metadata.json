@@ -1,0 +1,6 @@
+{
+  "name": "NCMSAIDSI–2026",
+  "description": "Official homepage for the National Conference on Mathematical Sciences and Artificial Intelligence with Data Science Integration (NCMSAIDSI–2026).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
